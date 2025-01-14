@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 
 function header() {
@@ -25,29 +24,24 @@ function header() {
             <div className="collapse navbar-collapse" id="navbarScroll">
               <ul className="navbar-nav ms-auto my-2 my-lg-0 navbar-nav-scroll">
                 <li className="nav-item">
-                  {/* <Link to="/">Home</Link> */}
-                  <a
-                    className="nav-link active"
-                    aria-current="page"
-                    href="/"
-                  >
+                  <Link className="nav-link active" aria-current="page" to="/">
                     Home
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/about">
+                  <Link className="nav-link" to="/about">
                     About
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/servises">
+                  <Link className="nav-link" to="/servises">
                     Services
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/contact">
+                  <Link className="nav-link" to="/contact">
                     Contact
-                  </a>
+                  </Link>
                 </li>
               </ul>
               <form

@@ -1,10 +1,15 @@
 import React from "react";
+import Footer from "../components/Footer";
+import Header from "../components/Header";
+
 
 // video time 8:41
 
 function Home() {
   return (
     <div>
+      <Header/>
+
       {/* <!-- banner section --> */}
       <div className="slider">
         <div className="slide current">
@@ -663,6 +668,8 @@ function Home() {
         </div>
       </div>
       {/* <!-- //blog section --> */}
+      <Footer/>
+
     </div>
   );
 }

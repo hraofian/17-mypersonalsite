@@ -1,8 +1,12 @@
 import React from "react";
+import Footer from "../components/Footer";
+import Header from "../components/Header";
 
 function Servises() {
   return (
     <div>
+      <Header />
+
       {/* <!-- inner banner --> */}
       <section className="inner-banner py-5">
         <div className="w3l-breadcrumb py-lg-5">
@@ -234,6 +238,7 @@ function Servises() {
         </div>
       </div>
       {/* <!-- //3grids with bg-image section --> */}
+      <Footer />
     </div>
   );
 }
