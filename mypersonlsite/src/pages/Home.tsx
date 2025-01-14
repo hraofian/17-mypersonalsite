@@ -188,7 +188,7 @@ function Home() {
             </div>
             <div className="col-lg-5 offset-lg-1 text-end mt-lg-0 mt-5 position-relative">
               <img
-                src="./src/assets/images/img1.jpg"
+                src="./assets/images/img1.jpg"
                 alt=""
                 className="img-fluid radius-image"
               />
@@ -360,7 +360,7 @@ function Home() {
           <div className="row align-items-center">
             <div className="col-lg-6 about-2-secs-right mb-lg-0 mb-5">
               <img
-                src="./src/assets/images/img2.jpg"
+                src="./assets/images/img2.jpg"
                 alt=""
                 className="img-fluid radius-image"
               />
@@ -452,7 +452,7 @@ function Home() {
                 <ul>
                   <li className="anim1">
                     <img
-                      src="./src/assets/images/testi1.jpg"
+                      src="./assets/images/testi1.jpg"
                       className="img-fluid rounded-circle"
                       alt="client image"
                     />
@@ -469,7 +469,7 @@ function Home() {
 
                   <li className="anim2">
                     <img
-                      src="./src/assets/images/testi2.jpg"
+                      src="./assets/images/testi2.jpg"
                       className="img-fluid rounded-circle"
                       alt="client image"
                     />
@@ -484,7 +484,7 @@ function Home() {
                   </li>
                   <li className="anim3">
                     <img
-                      src="./src/assets/images/testi3.jpg"
+                      src="./assets/images/testi3.jpg"
                       className="img-fluid rounded-circle"
                       alt="client image"
                     />
@@ -500,7 +500,7 @@ function Home() {
                   </li>
                   <li className="anim4">
                     <img
-                      src="./src/assets/images/testi1.jpg"
+                      src="./assets/images/testi1.jpg"
                       className="img-fluid rounded-circle"
                       alt="client image"
                     />
@@ -516,7 +516,7 @@ function Home() {
                   </li>
                   <li className="anim5">
                     <img
-                      src="./src/assets/images/testi2.jpg"
+                      src="./assets/images/testi2.jpg"
                       className="img-fluid rounded-circle"
                       alt="client image"
                     />
@@ -553,7 +553,7 @@ function Home() {
               <div className="blog-card-single">
                 <div className="grids5-info">
                   <a href="#blog">
-                    <img src="./src/assets/images/blog1.jpg" alt="" />
+                    <img src="./assets/images/blog1.jpg" alt="" />
                   </a>
                   <div className="blog-info">
                     <h4>
@@ -571,7 +571,7 @@ function Home() {
                       >
                         <img
                           className="img-fluid"
-                          src="./src/assets/images/testi2.jpg"
+                          src="./assets/images/testi2.jpg"
                           alt="admin"
                           style={{ maxWidth: "40px" }}
                         />
@@ -589,7 +589,7 @@ function Home() {
               <div className="blog-card-single">
                 <div className="grids5-info">
                   <a href="#blog">
-                    <img src="./src/assets/images/blog3.jpg" alt="" />
+                    <img src="./assets/images/blog3.jpg" alt="" />
                   </a>
                   <div className="blog-info">
                     <h4>
@@ -607,7 +607,7 @@ function Home() {
                       >
                         <img
                           className="img-fluid"
-                          src="./src/assets/images/testi1.jpg"
+                          src="./assets/images/testi1.jpg"
                           alt="admin"
                           style={{ maxWidth: "40px" }}
                         />
@@ -625,7 +625,7 @@ function Home() {
               <div className="blog-card-single">
                 <div className="grids5-info">
                   <a href="#blog">
-                    <img src="./src/assets/images/blog2.jpg" alt="" />
+                    <img src="./assets/images/blog2.jpg" alt="" />
                   </a>
                   <div className="blog-info">
                     <h4>
@@ -645,7 +645,7 @@ function Home() {
                       >
                         <img
                           className="img-fluid"
-                          src="./src/assets/images/testi3.jpg"
+                          src="./assets/images/testi3.jpg"
                           alt="admin"
                           style={{ maxWidth: "40px" }}
                         />
