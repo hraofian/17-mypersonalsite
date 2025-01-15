@@ -5,7 +5,6 @@ import Header from "../components/Header";
 function Contact() {
   return (
     <div>
-      <Header/>
 
       {/* <!-- inner banner --> */}
       <section className="inner-banner py-5">
@@ -128,7 +127,6 @@ function Contact() {
         ></iframe>
       </div>
       {/* <!-- //contact --> */}
-      <Footer/>
 
     </div>
   );

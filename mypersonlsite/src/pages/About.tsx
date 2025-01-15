@@ -4,7 +4,6 @@ import Footer from "../components/Footer";
 function About() {
   return (
     <div>
-      <Header/>
       {/* <!-- inner banner --> */}
       <section className="inner-banner py-5">
         <div className="w3l-breadcrumb py-lg-5">
@@ -467,7 +466,6 @@ function About() {
         </div>
       </section>
       {/* <!-- team section --> */}
-      <Footer/>
     </div>
   );
 }

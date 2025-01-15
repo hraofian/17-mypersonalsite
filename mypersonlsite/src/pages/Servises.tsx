@@ -5,7 +5,6 @@ import Header from "../components/Header";
 function Servises() {
   return (
     <div>
-      <Header />
 
       {/* <!-- inner banner --> */}
       <section className="inner-banner py-5">
@@ -238,7 +237,6 @@ function Servises() {
         </div>
       </div>
       {/* <!-- //3grids with bg-image section --> */}
-      <Footer />
     </div>
   );
 }
